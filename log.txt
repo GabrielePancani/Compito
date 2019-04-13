@@ -1,0 +1,97 @@
+commit b4641d90418b518e640eb43d82831268ca6c3bd5
+Merge: 153df6b 80c35d5
+Author: Gabriele Pancani <studentepancani.gabriele01@gmail.com>
+Date:   Sat Apr 13 11:42:25 2019 +0200
+
+    Aggiustamento
+
+commit 153df6b71d5ca0039fbc38c4c5cfcee374bfe348
+Author: Gabriele Pancani <studentepancani.gabriele01@gmail.com>
+Date:   Sat Apr 13 11:40:57 2019 +0200
+
+    Inserito colore di sfondo blu
+
+diff --git a/css/style.css b/css/style.css
+index 679cc64..077235f 100644
+Binary files a/css/style.css and b/css/style.css differ
+
+commit 80c35d5be7f9d2a94e3a34663ddd382506847149
+Author: Gabriele Pancani <studentepancani.gabriele01@gmail.com>
+Date:   Sat Apr 13 11:39:11 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+index 679cc64..374db5f 100644
+Binary files a/css/style.css and b/css/style.css differ
+
+commit 3457778d3a8e65d7b842363902731bed44338758
+Author: Gabriele Pancani <studentepancani.gabriele01@gmail.com>
+Date:   Sat Apr 13 11:27:28 2019 +0200
+
+    Inserita immagine per la pagina Home
+
+diff --git a/img/download.jpg b/img/download.jpg
+new file mode 100644
+index 0000000..b55d86e
+Binary files /dev/null and b/img/download.jpg differ
+
+commit 1a5ae6bc930ee01f20c7166d83d46b7ebba00c6f
+Merge: f611f47 ca02187
+Author: Gabriele Pancani <studentepancani.gabriele01@gmail.com>
+Date:   Sat Apr 13 11:24:00 2019 +0200
+
+    Fusione ramo Contatti
+
+commit ca0218754078c4bef13e41038dc42594d0c8edef
+Author: Gabriele Pancani <studentepancani.gabriele01@gmail.com>
+Date:   Sat Apr 13 11:22:27 2019 +0200
+
+    Inserito file css per i widget
+
+diff --git a/css/widget.css b/css/widget.css
+new file mode 100644
+index 0000000..679cc64
+Binary files /dev/null and b/css/widget.css differ
+
+commit e34a46159870253988df2b45ed2e62e88b53c657
+Author: Gabriele Pancani <studentepancani.gabriele01@gmail.com>
+Date:   Sat Apr 13 11:20:17 2019 +0200
+
+    Creata la pagina Contatti
+
+diff --git a/contatti.html b/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 5097938e200c0e12a924bc6375de704f51377d57
+Author: Gabriele Pancani <studentepancani.gabriele01@gmail.com>
+Date:   Sat Apr 13 11:14:50 2019 +0200
+
+    Inserita immagine
+
+diff --git a/img/buco.jpg b/img/buco.jpg
+new file mode 100644
+index 0000000..9a36d17
+Binary files /dev/null and b/img/buco.jpg differ
+
+commit f611f4758e2f3c54d48dcd8a7d7bf4c868ac00e3
+Author: Gabriele Pancani <studentepancani.gabriele01@gmail.com>
+Date:   Sat Apr 13 11:13:05 2019 +0200
+
+    Creata Pagina Home
+
+diff --git a/home.html b/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 235aadc4439456c4a0d0b0d433240a4ec3c0d54d
+Author: Gabriele Pancani <studentepancani.gabriele01@gmail.com>
+Date:   Sat Apr 13 11:05:25 2019 +0200
+
+    Prima commit
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..679cc64
+Binary files /dev/null and b/css/style.css differ
